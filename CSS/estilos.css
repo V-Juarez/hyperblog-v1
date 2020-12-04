@@ -1,13 +1,13 @@
 body {
   color: #333;
   text-align: left;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Courier, Helvetica, sans-serif;
   font-size: 16px;
   margin: 0;
   padding: 0;
 }
-#container
-{
+
+#container {
   width: 70%;
   padding: 1em;
   text-align: left;
@@ -15,7 +15,6 @@ body {
   margin: 0 auto;
 }
 
-#container
-{
+#container {
   font-size: 20px;
 }
