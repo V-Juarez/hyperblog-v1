@@ -4,9 +4,9 @@
 
 > Disponible para todas las edades.
 
-__**Experimento 1**__
+_**Experimento 1**_
 
-__**Experimento 2**__
+> _**Experimento 2**_
 
 * main 1
 
