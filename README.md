@@ -1,7 +1,9 @@
 # hyperblogs
 > Un blog increible para el curso de Git y GitHub de Platzi.
 
-> Incluye ejemplos en Windows, Linux y Mac
+> Incluye ejemplos en Windows, Linux y Mac.
+
+> Disponible para todas las edades.
 
 ** Experimento 1 **
 
